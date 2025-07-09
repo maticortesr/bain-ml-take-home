@@ -33,4 +33,4 @@ Some technicals requirements required from the Software Engineers and MLEngineer
 
 > The deliverable should be a Github repository containing all the requested. The repository shouldn't contain the data due is property of the client.
 
-**Note**: As you develop the pipeline and API, adhere to coding best practices, including modularization, documentation, and error handling. Consider potential edge cases and handle them appropriately to ensure reliable performance. The client values clean, maintainable code that can be easily scaled and extended in the future.uv 
+**Note**: As you develop the pipeline and API, adhere to coding best practices, including modularization, documentation, and error handling. Consider potential edge cases and handle them appropriately to ensure reliable performance. The client values clean, maintainable code that can be easily scaled and extended in the future.
